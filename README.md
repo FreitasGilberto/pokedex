@@ -12,7 +12,7 @@ You can find a demo of the project at the following link: https://freitasgilbert
 
 The main features of the Pokedex are:
 
-- Look up information about any Pokemon, such as its type, abilities, moves, and more.
+- Look up information about any Pokemon.
 - View the sprite of the Pokemon along with its name and type when searching by name or number.
 
 ## Technologies used
