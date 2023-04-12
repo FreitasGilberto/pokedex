@@ -30,4 +30,4 @@ The main features of the Pokedex are:
 
 ## Credits
 
-This project was created by Gilberto Freitas using the technologies mentioned above and PokeAPI.
+This project was created by Gilberto Freitas using the technologies mentioned above.
